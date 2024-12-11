@@ -59,7 +59,7 @@ Contact/
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-nom/contact-manager.git
+   git clone https://github.com/Firinze/contact-manager.git
    ```
 2. Importez le projet dans votre IDE préféré.
 3. Configurez les bibliothèques JavaFX si nécessaire.
